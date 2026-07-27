@@ -1,29 +1,31 @@
-# 5th Square Advocacy — events calendar feed
+# 5th Square Advocacy — events calendar
 
-This repository exists to serve one file: a calendar feed of
-[5th Square Advocacy](https://www.5thsqadvocacy.org) events.
+Our events calendar has moved. **There is no feed at this address any more.**
 
 ## Subscribe
 
+[**Add to Google Calendar**](https://calendar.google.com/calendar/render?cid=c63d0ae0e83964f70de6fe485c1c064f0f5f4aefd2c335b684aaadf6b4409a92@group.calendar.google.com)
+
+Or paste this into any calendar app:
+
 ```
-https://5th-square-advocacy.github.io/calendar/events.ics
+https://calendar.google.com/calendar/ical/c63d0ae0e83964f70de6fe485c1c064f0f5f4aefd2c335b684aaadf6b4409a92%40group.calendar.google.com/public/basic.ics
 ```
 
-- **Google Calendar** — Other calendars → **+** → *From URL* → paste
-- **Apple Calendar** — File → *New Calendar Subscription* → paste
-- **Outlook** — Add calendar → *Subscribe from web* → paste
+- **Google Calendar** — Other calendars → **+** → *From URL*
+- **Apple Calendar** — File → *New Calendar Subscription*
+- **Outlook** — Add calendar → *Subscribe from web*
 
-Some clients want `webcal://` instead of `https://` — same address, different
-scheme.
+Calendar apps refresh subscriptions on their own schedule — Google can take up
+to a day — so a newly added event may not appear immediately.
 
-Calendar apps refresh subscriptions on their own schedule, and Google in
-particular can take up to a day. A newly added event may not appear right away.
+## If you subscribed to the old feed
 
-## About the file
+The previous `events.ics` at this address has been removed and **will not
+update**. Please re-subscribe using the link above; the old subscription will
+show no further events.
 
-`events.ics` is generated from our Neon CRM events. **Don't edit it by hand** —
-changes are overwritten when it's regenerated. Event details are managed in Neon;
-this is only a published copy.
+## About
 
-Full event listings, including registration, are at
-<https://www.5thsqadvocacy.org/events>.
+Events are managed in Neon CRM and synced automatically. Full listings,
+including registration, are at <https://www.5thsqadvocacy.org/events>.
