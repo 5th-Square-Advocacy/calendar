@@ -1,0 +1,4 @@
+# events.ics must keep CRLF line endings: RFC 5545 requires them, and a Windows
+# client with core.autocrlf=true will otherwise strip the CR on commit, serving
+# a feed that strict calendar parsers can reject. -text disables all conversion.
+*.ics -text
