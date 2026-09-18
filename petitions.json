@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:43:33Z",
+  "updated": "2026-09-18T20:09:02Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
@@ -7,7 +7,8 @@
     },
     "housing-for-hahnemann-site": {
       "name": "Housing for Hahnemann Site",
-      "signers": 307
+      "signers": 307,
+      "bar": false
     },
     "transit-oriented-communities": {
       "name": "Transit Oriented Communities",
