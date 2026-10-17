@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:12:22Z",
+  "updated": "2026-10-17T05:19:45Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
@@ -20,7 +20,7 @@
     },
     "speed-cameras": {
       "name": "Speed Cameras",
-      "signers": 334
+      "signers": 420
     },
     "zz-test-petition": {
       "name": "ZZ Test Petition",
@@ -28,7 +28,7 @@
     },
     "adu-campaign": {
       "name": "ADU Campaign",
-      "signers": 0
+      "signers": 27
     }
   },
   "forms": {
