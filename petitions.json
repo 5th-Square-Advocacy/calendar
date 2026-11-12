@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T01:19:56Z",
+  "updated": "2026-11-12T10:39:59Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
-      "signers": 431
+      "signers": 429
     },
     "housing-for-hahnemann-site": {
       "name": "Housing for Hahnemann Site",
-      "signers": 307,
+      "signers": 306,
       "bar": false
     },
     "transit-oriented-communities": {
@@ -20,7 +20,7 @@
     },
     "speed-cameras": {
       "name": "Speed Cameras",
-      "signers": 464
+      "signers": 462
     },
     "zz-test-petition": {
       "name": "ZZ Test Petition",
