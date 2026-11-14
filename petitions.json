@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:24:00Z",
+  "updated": "2026-11-14T00:10:49Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
@@ -20,7 +20,7 @@
     },
     "speed-cameras": {
       "name": "Speed Cameras",
-      "signers": 461
+      "signers": 481
     },
     "zz-test-petition": {
       "name": "ZZ Test Petition",
@@ -28,11 +28,11 @@
     },
     "adu-campaign": {
       "name": "ADU Campaign",
-      "signers": 78
+      "signers": 80
     },
     "accelerate-petition": {
       "name": "Accelerate Petition",
-      "signers": 480
+      "signers": 681
     },
     "logan-square-action": {
       "name": "Logan Square Action",
@@ -40,7 +40,7 @@
     },
     "parking-protected-bike-lanes": {
       "name": "Parking Protected Bike Lanes",
-      "signers": 30
+      "signers": 79
     }
   },
   "forms": {
