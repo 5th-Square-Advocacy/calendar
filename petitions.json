@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:25:12Z",
+  "updated": "2026-11-16T07:41:23Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
@@ -20,7 +20,7 @@
     },
     "speed-cameras": {
       "name": "Speed Cameras",
-      "signers": 481
+      "signers": 483
     },
     "zz-test-petition": {
       "name": "ZZ Test Petition",
@@ -40,7 +40,7 @@
     },
     "parking-protected-bike-lanes": {
       "name": "Parking Protected Bike Lanes",
-      "signers": 81
+      "signers": 83
     }
   },
   "forms": {
