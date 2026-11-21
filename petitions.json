@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:59:48Z",
+  "updated": "2026-11-21T08:00:19Z",
   "petitions": {
     "trolley-diversion": {
       "name": "Trolley Diversion",
@@ -32,7 +32,7 @@
     },
     "accelerate-petition": {
       "name": "Accelerate Petition",
-      "signers": 836
+      "signers": 837
     },
     "logan-square-action": {
       "name": "Logan Square Action",
@@ -40,7 +40,7 @@
     },
     "parking-protected-bike-lanes": {
       "name": "Parking Protected Bike Lanes",
-      "signers": 99
+      "signers": 100
     }
   },
   "forms": {
