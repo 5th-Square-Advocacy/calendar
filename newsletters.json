@@ -1,0 +1,361 @@
+{
+ "newsletters": [
+  {
+   "issue": 51,
+   "date": "2026-11-17",
+   "subject": "🎉 Transit & Housing Win / 🏆 Urbanist Award Nominations Due Friday / 🛠️ Fix the South St Bridge",
+   "slug": "newsletter-2026-11-17",
+   "image": "https://irp.cdn-website.com/f0815ca4/dms3rep/multi/opt/noah-cote-aJwW3KpuSLU-unsplash2-1920w.jpg"
+  },
+  {
+   "issue": 50,
+   "date": "2026-11-11",
+   "subject": "🏆 Urbanist Award Nominations / 🚲 Take Action for Parking-Protected Bike Lanes / 🕯️ Sunday: World Day of Remembrance",
+   "slug": "newsletter-2026-11-11",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_2201_Original.JPG"
+  },
+  {
+   "issue": 49,
+   "date": "2026-11-04",
+   "subject": "📢 Tell Harrisburg: Fund SEPTA Accelerate / 🚉 Monday: Accelerate with SEPTA GM / 🚏 Tonight: Intercity Bus Station Meeting",
+   "slug": "newsletter-2026-11-04",
+   "image": "https://irp.cdn-website.com/f0815ca4/dms3rep/multi/opt/regional+rail+map-1920w.png"
+  },
+  {
+   "issue": 48,
+   "date": "2026-10-27",
+   "subject": "🥳 A Win for Transit Access / 🌉 Tonight: SRT Bridge Tour / 🍻 Monday: South Street Meetup",
+   "slug": "newsletter-2026-10-27",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/transit_access_fund_city_hall.png"
+  },
+  {
+   "issue": 47,
+   "date": "2026-10-20",
+   "subject": "🏘️ Legalize ADUs Statewide / 🌉 Next Tuesday: SRT Bridge Tour / 🍻 South Street Meetup",
+   "slug": "newsletter-2026-10-20",
+   "image": "https://irp.cdn-website.com/f0815ca4/dms3rep/multi/opt/_4-1920w.jpg"
+  },
+  {
+   "issue": 46,
+   "date": "2026-10-13",
+   "subject": "🍻 Tonight: Transit Postcard Writing Happy Hour / 🕯️ World Day of Remembrance / ✍️ Philadelphia2050 Survey",
+   "slug": "newsletter-2026-10-13",
+   "image": "https://events-live-uploads.s3.amazonaws.com/4f67f698518561d54c4b37fbf6a16460.jpg"
+  },
+  {
+   "issue": 45,
+   "date": "2026-10-06",
+   "subject": "✍️ Transit Postcard Writing Happy Hour / 🛠️ Fix the South St Bridge / ⏮️ CityNerd Live Recapped",
+   "slug": "newsletter-2026-10-06",
+   "image": "https://events-live-uploads.s3.amazonaws.com/4f67f698518561d54c4b37fbf6a16460.jpg"
+  },
+  {
+   "issue": 44,
+   "date": "2026-09-23",
+   "subject": "👎 Lower Fines for Reckless Drivers? / 🚃 Reimagining Regional Rail / 🚶 Sunday: Walk for a Safer Route 13",
+   "slug": "newsletter-2026-09-23",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/philadelphia%20speeding%20graphic(1).png"
+  },
+  {
+   "issue": 43,
+   "date": "2026-09-15",
+   "subject": "🍻 Meetup Tonight / 🚗 Friday: Park(ing) Day / 🚶 Route 13 Advocacy Walk",
+   "slug": "newsletter-2026-09-15",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_5688_Original.jpg"
+  },
+  {
+   "issue": 42,
+   "date": "2026-09-09",
+   "subject": "🍻 Meetup Next Week / 💰 Save Federal Bike Funding / 💼 Jobs + Transit",
+   "slug": "newsletter-2026-09-09",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_5688_Original.jpg"
+  },
+  {
+   "issue": 41,
+   "date": "2026-09-03",
+   "subject": "🍻 Meetup in Two Weeks / 📸 New Speed Cameras / ✍️ Center City Concourse Survey",
+   "slug": "newsletter-2026-09-03",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_5688_Original.jpg"
+  },
+  {
+   "issue": 40,
+   "date": "2026-08-26",
+   "subject": "🍻 September Meetup / 🚌 New Bus Network Rollout / 🔰 Land Value Tax Discussion",
+   "slug": "newsletter-2026-08-26",
+   "image": "https://assets.nationbuilder.com/5thsq/pages/5820/attachments/original/1747426066/cl4ea943c175s6ecx64uja0q3-img-2927.full.jpg"
+  },
+  {
+   "issue": 39,
+   "date": "2026-08-19",
+   "subject": "🎫 CityNerd Live in Philly / 🚌 Tonight: Statewide Transit Funding Call / 🚲 Improve Biking in Your Neighborhood",
+   "slug": "newsletter-2026-08-19",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/CityNerd%20horizontal.png"
+  },
+  {
+   "issue": 38,
+   "date": "2026-08-12",
+   "subject": "🕯️ Friday: Remembering Glenn Colville Jr. / 📣 Market East Engagement / 🚶 Support Pedestrian and Bike Infrastructure",
+   "slug": "newsletter-2026-08-12",
+   "image": "https://bicyclecoalition.org/wp-content/uploads/2026/04/blog-headers-12.png"
+  },
+  {
+   "issue": 37,
+   "date": "2026-08-05",
+   "subject": "📆 CityNerd Is Coming to Philly / 💰🚲 Bike Improvement Grants / 🎨 Arts Accessibility Audit",
+   "slug": "newsletter-2026-08-05",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/CityNerd%20horizontal.png"
+  },
+  {
+   "issue": 36,
+   "date": "2026-07-30",
+   "subject": "👋 5th Square's First Executive Director / 🚲 Parking-Protected Bike Lanes / 🕰️ 24 Hours on Transit",
+   "slug": "newsletter-2026-07-30",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Turquoise%20and%20White%20New%20Employee%20Announcement%20Social%20Media%20Post.png"
+  },
+  {
+   "issue": 35,
+   "date": "2026-07-21",
+   "subject": "📢 Friday: Rally for a Safer West Market St / 🌉 Delaware River Bridge Bike/Ped Path / Another Budget without Transit Funding",
+   "slug": "newsletter-2026-07-21",
+   "image": "https://5th-square-advocacy.github.io/calendar/img/6053a9a743044f8c509959bd90385a66-efc1c69e.png"
+  },
+  {
+   "issue": 34,
+   "date": "2026-07-14",
+   "subject": "🕯️ Sunday: Memorial for Dr. Barbara Friedes / 🎉 A Federal Housing Win / 🍻 Housing Happy Hour Recap",
+   "slug": "newsletter-2026-07-14",
+   "image": "https://5th-square-advocacy.github.io/calendar/img/b9783636a3bc8387c7a4816d02cb948b-f4706b06.png"
+  },
+  {
+   "issue": 33,
+   "date": "2026-07-08",
+   "subject": "🍻 Tonight: Housing Happy Hour / 🌉 Car-Free Ben Franklin / 🚨 How to Cut Emergency Response Times",
+   "slug": "newsletter-2026-07-08",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_6663_Original.jpg"
+  },
+  {
+   "issue": 32,
+   "date": "2026-07-02",
+   "subject": "🏘️ Inside Our Campaign for More Homes Near Transit / 👂 Tell Us About Your RCO / 🎉 Expanded Market St Redesign",
+   "slug": "newsletter-2026-07-02",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/More%20Homes%20Near%20Transit%20-%20Sign.png"
+  },
+  {
+   "issue": 31,
+   "date": "2026-06-25",
+   "subject": "📢 Friday: Rally for Transit Funding / 🚲👶 Biking with Toddlers / 📈 Why Pedestrian Deaths Are Rising",
+   "slug": "newsletter-2026-06-25",
+   "image": "https://assets.nationbuilder.com/transitforwardphilly/pages/5035/attachments/original/1782307657/Instagram_%284%29.png"
+  },
+  {
+   "issue": 30,
+   "date": "2026-06-17",
+   "subject": "🥳 Council Passed TOC Bill / 🗓️ Next Month: TransportationCamp PHL / 🏛️ Tonight: Policy Social/Celebration",
+   "slug": "newsletter-2026-06-17",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/41154733-2D59-4BC0-9A01-34BC7B3997CA.jpg"
+  },
+  {
+   "issue": 29,
+   "date": "2026-06-10",
+   "subject": "🏛️ We Went to Harrisburg / 🏘️ Homes Belong Near Transit / 🛠️ The Fix for More Public Spaces",
+   "slug": "newsletter-2026-06-10",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/2026%20lobby%20day%20big%20group.jpg"
+  },
+  {
+   "issue": 28,
+   "date": "2026-06-02",
+   "subject": "🌇 Tuesday Open Streets / 🚲 Aramingo Ave Safety Upgrades / 💳 Push for Universal Student Fares Before Summer",
+   "slug": "newsletter-2026-06-02",
+   "image": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ket5zskgicnrelbobiflw7xs/bafkreievnreewgqvv3jd644zx4vns6434iwffe26ubhemtqqdlq5sjfosy"
+  },
+  {
+   "issue": 27,
+   "date": "2026-05-26",
+   "subject": "🏘️ More Homes Near Transit / 🕯️ Rescheduled: Ride of Silence Tomorrow / 📣 Support the Circuit Trails",
+   "slug": "newsletter-2026-05-26",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/More%20Homes%20Near%20Transit%20-%20Sign.png"
+  },
+  {
+   "issue": 26,
+   "date": "2026-05-19",
+   "subject": "🕯️ Tomorrow: Ride of Silence / 📚 Book Talk Recap / 🙅‍♂️ No E-Bike License Requirement",
+   "slug": "newsletter-2026-05-19",
+   "image": "https://cdn-5d792904f911c90950a587a6.closte.com/wp-content/uploads/2026/03/TFP-event-postings-10.png"
+  },
+  {
+   "issue": 25,
+   "date": "2026-05-13",
+   "subject": "📚 Tomorrow: Life After Cars Book Talk / 🕯️ Ride of Silence Next Week / 🚘 Safer Streets... For Drivers",
+   "slug": "newsletter-2026-05-13",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Life%20After%20Cars%20Graphic(1).png"
+  },
+  {
+   "issue": 24,
+   "date": "2026-05-07",
+   "subject": "📚 Next Week: Life After Cars Book Talk / 🚲 Bike to Work and Wherever Day / 📢 Support a Safer Aramingo Ave",
+   "slug": "newsletter-2026-05-07",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Life%20After%20Cars%20Graphic(1).png"
+  },
+  {
+   "issue": 23,
+   "date": "2026-04-30",
+   "subject": "🏛️ Support a Budget that Keeps Philly Moving / 🚏 New Bus Terminal Now Open / 🚲 $1 Indego Passes",
+   "slug": "newsletter-2026-04-30",
+   "image": "https://assets.nationbuilder.com/transitforwardphilly/pages/3951/attachments/original/1776785085/Transit_%281%29.png"
+  },
+  {
+   "issue": 22,
+   "date": "2026-04-23",
+   "subject": "📚 Next Month: Life After Cars Book Talk / 🕯️ Ride of Silence / 🚏 New Bus Terminal Opens Next Week",
+   "slug": "newsletter-2026-04-23",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/life%20after%20cars%20ig%20screenshot.png"
+  },
+  {
+   "issue": 21,
+   "date": "2026-04-16",
+   "subject": "🚲 Legalize Parking-Protected Bike Lanes / 📣 Monday: Advocacy Workshop / 📚 One Month Away: Life After Cars Book Talk",
+   "slug": "newsletter-2026-04-16",
+   "image": "https://bicyclecoalition.secure.nonprofitsoapbox.com/storage/images/After-Parkside-2021-scaled.jpg"
+  },
+  {
+   "issue": 20,
+   "date": "2026-04-09",
+   "subject": "📣 Become a Better Advocate / 🏘️🚏 Support Homes Near Transit / 🚌 Keep Transit Wins in the Budget",
+   "slug": "newsletter-2026-04-09",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_1066.jpg"
+  },
+  {
+   "issue": 19,
+   "date": "2026-04-03",
+   "subject": "📚 Life After Cars Book Talk / 📣 Become a Better Advocate / 🚋💨 Faster Trolleys",
+   "slug": "newsletter-2026-04-03",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Life%20After%20Cars%20Graphic.png"
+  },
+  {
+   "issue": 18,
+   "date": "2026-03-26",
+   "subject": "🚏 We WON Real-Time Bus Signs / 🕯️ Saturday: Remembering Teddy Einstein / 🏫 Support Better Student Transit Access",
+   "slug": "newsletter-2026-03-26",
+   "image": "https://wwww.septa.org/wp-content/uploads/post/communication/e-paper-bus-stop-signs_1650x928.jpg"
+  },
+  {
+   "issue": 17,
+   "date": "2026-03-20",
+   "subject": "🏫 Universal Student Fares / 📚 Life After Cars Book Talk / 🌳 Shape Our Future Trail Network",
+   "slug": "newsletter-2026-03-20",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/2.png"
+  },
+  {
+   "issue": 16,
+   "date": "2026-03-12",
+   "subject": "🎉 Zero Fare & SEPTA Key Advantage WINS! / 🚲 Pop-Up Spruce Pine Protection / 🚌 New Bus Network Updates / 🏙️ Open Streets",
+   "slug": "newsletter-2026-03-12",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_0254.JPG"
+  },
+  {
+   "issue": 15,
+   "date": "2026-03-05",
+   "subject": "👋 We're Hiring! / 📚 Life After Cars Book Talk / 💳 Tomorrow: Rally to Save Zero Fare",
+   "slug": "newsletter-2026-03-05",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Life%20After%20Cars%20Graphic.png"
+  },
+  {
+   "issue": 14,
+   "date": "2026-02-26",
+   "subject": "🔥 Tonight: Fireside Chat with Angela Brooks / 🚏 Pick a Location for the New Intercity Bus Terminal / 💳 Save Zero Fare and SEPTA Key Advantage",
+   "slug": "newsletter-2026-02-26",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/angela_brooks_fireside_chat.jpg"
+  },
+  {
+   "issue": 13,
+   "date": "2026-02-19",
+   "subject": "🔥 Next Week: Fireside Chat with Angela Brooks / 🚸 School Zone Speed Cameras / 🚏 Intercity Bus Terminal Open House and Survey",
+   "slug": "newsletter-2026-02-19",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/angela_brooks_fireside_chat.jpg"
+  },
+  {
+   "issue": 12,
+   "date": "2026-02-11",
+   "subject": "🗳️ Tonight: Run for Committee Person Training / ❌ City Council Says No I-95 Widening / 🔥 Fireside Chat with Angela Brooks",
+   "slug": "newsletter-2026-02-11",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_6300.JPG"
+  },
+  {
+   "issue": 11,
+   "date": "2026-02-06",
+   "subject": "🎉 Hahnemann Home Ban Bill Held / 🗳️ Run for Committee Person / 💰 Update on PA Transit Funding",
+   "slug": "newsletter-2026-02-06",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/panorama%20(1).png"
+  },
+  {
+   "issue": 10,
+   "date": "2026-01-28",
+   "subject": "🚧 Safer West Market Street / ⛔ No Parking for ICE / 🚇 Help Fight for Transit Funding",
+   "slug": "newsletter-2026-01-28",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Screenshot%202026-01-27%20at%2012-38-53%20Instagram.png"
+  },
+  {
+   "issue": 9,
+   "date": "2026-01-20",
+   "subject": "📣 Comment at SEPTA Board Meeting / 🚲 Bike Usage Is Up / 🚌 SEPTA Is Getting Safer",
+   "slug": "newsletter-2026-01-20",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/20260115_180514.jpg"
+  },
+  {
+   "issue": 8,
+   "date": "2026-01-14",
+   "subject": "🤝 Meetup on Thursday / 🚏 Intercity Bus Terminal Returning in May / 🚋 Trolley Tunnel Reopening",
+   "slug": "newsletter-2026-01-14",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/urbanist_powerpoint_party.jpg"
+  },
+  {
+   "issue": 7,
+   "date": "2026-01-06",
+   "subject": "🚫🏘️ NO Hahnemann Home Ban / 🤝 Meetup Next Week / 🦺 Become a Vision Zero Ambassador",
+   "slug": "newsletter-2026-01-06",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/panorama%20(1).png"
+  },
+  {
+   "issue": 6,
+   "date": "2025-12-30",
+   "subject": "☁️ Clean Air for Grays Ferry / 🤝 January Meetup / 🚋 Trolley Update",
+   "slug": "newsletter-2025-12-30",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/chop_garage_rendering.png"
+  },
+  {
+   "issue": 5,
+   "date": "2025-12-09",
+   "subject": "🎉 Friday: Holiday Party / 🚋 Speed Up Diverted Trolleys / 🍽️ Support Outdoor Dining",
+   "slug": "newsletter-2025-12-09",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Brown%20Autumn%20Photo%20Collage%20(2).png"
+  },
+  {
+   "issue": 4,
+   "date": "2025-12-03",
+   "subject": "📚 Book Club Today / 📝 New Vision Zero Report / 🏆 Announcing Our Urbanist Award Winners",
+   "slug": "newsletter-2025-12-03",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/IMG_8870.png"
+  },
+  {
+   "issue": 3,
+   "date": "2025-11-25",
+   "subject": "🚉 Emergency SEPTA Funding / 📣 Support Sidewalk Cafes and Safe Streets / 🏙️ Philly2050 Survey",
+   "slug": "newsletter-2025-11-25",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/54819827777_233787db27_k.jpg"
+  },
+  {
+   "issue": 2,
+   "date": "2025-11-18",
+   "subject": "🏙️ A Better Market East / 🚵‍♀️ Tomorrow: Spring Garden Connector Open House / 🚇 Thursday: Transit Affordability Townhall",
+   "slug": "newsletter-2025-11-18",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/image%20(2).png"
+  },
+  {
+   "issue": 1,
+   "date": "2025-11-06",
+   "subject": "👋 Introducing 5th Square Advocacy / 🏆 Urbanist Award Nominations / 🚌 Center City Bus Terminal Is Returning",
+   "slug": "newsletter-1",
+   "image": "https://5thsq.app.neoncrm.com/neon/resource/5thsq/images/Now%20introducing%205th%20Square%20Advocacy%20(1).png"
+  }
+ ]
+}
